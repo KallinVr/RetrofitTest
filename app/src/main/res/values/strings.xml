@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RetrofitTest</string>
+    <color name="blue">#0000FF</color>
 </resources>
